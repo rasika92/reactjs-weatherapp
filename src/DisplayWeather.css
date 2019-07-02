@@ -1,0 +1,25 @@
+span.daily-weather {
+    float: left;
+    margin-right: 50px;
+}
+
+form {
+    float: right;
+}
+
+.section-top {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    padding: 10px 20px;
+}
+
+.weekly-weather-display {
+    margin-left: 25%;
+}
+
+.current-weather-display {
+    margin-left: 50%;
+}
+
+.display-temp {
+    margin-left: 35px;
+}
